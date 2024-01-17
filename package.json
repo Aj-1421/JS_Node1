@@ -1,0 +1,15 @@
+{
+  "name": "js_node1",
+  "version": "1.0.0",
+  "description": "a basic app deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Ajay Jo",
+  "license": "ISC"
+}
