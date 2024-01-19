@@ -1,10 +1,11 @@
 {
-  "name": "js_node1",
+  "name": "backend",
   "version": "1.0.0",
   "description": "a basic app deploy",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "keywords": [
     "node",
